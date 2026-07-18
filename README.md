@@ -10,11 +10,9 @@ I have a podcast. I want to document it.
 
 _Where can I listen to this podcast?_
 
-![See Yall Later on Apple Podcasts](apple_podcasts_window.png)
-
-_What is the URL?_
-
 https://podcasts.apple.com/us/podcast/see-yall-later/id6791297832
+
+![See Yall Later on Apple Podcasts](apple_podcasts_window.png)
 
 _What is the "podcast production system"?_
 

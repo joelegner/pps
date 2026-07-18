@@ -34,11 +34,12 @@ The podcast is in season 1.
 
 _What is an episode?_
 
-An episode is a set of three parts?
+An episode is a set of three parts.
 
 _What is a part?_
 
-The part is the major division of an episode.
+1. The part is the major division of an episode.
+2. The three standard episode parts are: "setup", "do", and "cleanup". 
 
 _What is a segment?_
 

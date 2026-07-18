@@ -18,6 +18,40 @@ This is my first attempt to add a documentation component to the PPS. This bring
 12. Rule of 3 adoption policy.
 13. Documentation on Github policy.
 
+_What is the podcast production system?_
+
+_What led to the existence of the podcast production system?_
+
+_What is a component?_
+
+_What is a season?_
+
+A season is a set of related espisodes.
+
+_What seasons are we in?_
+
+The podcast is in season 1. 
+
+_What is an episode?_
+
+An episode is a set of three parts?
+
+_What is a part?_
+
+The part is the major division of an episode.
+
+_What is a segment?_
+
+A segment is part of a part. 
+
+_How does the "rule of 3" apply?_
+
+An episode is three (3) parts and the middle "do" part is three (3) segments. 
+
+_What is a series?_
+
+A series is a set of seasons.
+
 _Where is the documentation posted?_
 
 https://github.com/joelegner/pps/

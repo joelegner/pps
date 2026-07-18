@@ -1,8 +1,18 @@
 # Podcast Production System documentation.
 
+_When did I write this?_
+
+Saturday, July 18, 2026.
+
+_What is this all about?_
+
+I have a podcast. I want to document it.
+
+_What is the "podcast production system"?_
+
 The podcast production system is what I use to produce my podcast, "See yall later". It is available on Apple Podcasts. 
 
-This is my first attempt to add a documentation component to the PPS. This brings the total number of components to:
+_What is the current set of components in the PPS?_
 
 1. iPhone 13 hardware component.
 2. Mac Mini hardware component.
@@ -21,15 +31,36 @@ This is my first attempt to add a documentation component to the PPS. This bring
 15. Turn off the fan before recording policy.
 16. Do not under-utilize nor over-utilize policies policy.
 
-_What is the podcast production system?_
+_What makes up the podcast production system?_
+
+The PPS is a set of software components, hardware components, policies, and one human practitioner. 
 
 _What led to the existence of the podcast production system?_
 
-_What is a component?_
+I wanted to document the experiment I started.
 
-_What is a season?_
+_What is the experiment?_
+
+1. Make a working system that produces podcast episodes.
+2. Improve the system between episodes.
+3. Document the system along the way.
+4. See what happens.
+
+_What is a "component"?_
+
+A component is a part that can be talked about as a single unit, not made up of smaller parts.
+
+_What is a "podcast season"?_
 
 A season is a set of related espisodes.
+
+_Why are some words put into quotation marks?_
+
+Those are "terms" in the PPS. 
+
+_What is the definition of "term"?_
+
+A term is a specified word used in exactly one of its word senses.
 
 _What seasons are we in?_
 

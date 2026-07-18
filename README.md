@@ -54,6 +54,24 @@ The PPS is a set of software components, hardware components, policies, and one 
 
 _What led to the existence of the podcast production system?_
 
+I wanted to bootstrap a podcast by publishing as soon as possible.
+
+_Why does this Github repository exist?_
+
+It documents the PPS for better performance.
+
+_What constitutes better performance?_
+
+Better podcast episodes. 
+
+_What makes a podcast episode better?_
+
+1. More useful.
+2. More entertaining.
+3. Clearer.
+4. More understandable. 
+5. Communicates wisdom. 
+
 I wanted to document the experiment I started.
 
 _What is the experiment?_

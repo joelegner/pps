@@ -13,8 +13,10 @@ This is my first attempt to add a documentation component to the PPS. This bring
 7. Garage Band software component.
 8. Audacity software component. 
 9. Authenticator App to log into Github to maintain the repository.
-10. Written script policy.
-11. Documentation on Github policy.
+10. Piano interlude policy.
+11. Written script policy.
+12. Rule of 3 adoption policy.
+13. Documentation on Github policy.
 
 _Where is the documentation posted?_
 

@@ -16,7 +16,7 @@ https://podcasts.apple.com/us/podcast/see-yall-later/id6791297832
 
 _What is the "podcast production system"?_
 
-The podcast production system is what I use to produce my podcast, "See yall later". It is available on Apple Podcasts. 
+The podcast production system is what I use to produce my podcast, "See yall later".
 
 _What does the PPS depend on that is outside the PPS?_
 
@@ -46,6 +46,7 @@ _What is the current set of components in the PPS?_
 16. Four-inch distance from mouth to microphone policy.
 17. Turn off the fan before recording policy.
 18. Do not under-utilize nor over-utilize policies policy.
+19. Policies are posted in this `README.md` file on Github policy. 
 
 _What makes up the podcast production system?_
 

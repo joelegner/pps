@@ -12,6 +12,14 @@ _What is the "podcast production system"?_
 
 The podcast production system is what I use to produce my podcast, "See yall later". It is available on Apple Podcasts. 
 
+_What does the PPS depend on that is outside the PPS?_
+
+1. `RSS.com` website.
+2. `podcastconnect.apple.com` website.
+3. Apple Podcasts app.
+4. Apple Podcasts subscription.
+5. The practitioner, me, Joe Legner.
+
 _What is the current set of components in the PPS?_
 
 1. iPhone 13 hardware component.
@@ -23,13 +31,15 @@ _What is the current set of components in the PPS?_
 7. Garage Band software component.
 8. Audacity software component. 
 9. Authenticator App to log into Github to maintain the repository.
-10. Piano interlude policy.
-11. Written script policy.
-12. Rule of 3 adoption policy.
-13. Documentation on Github policy.
-14. Four-inch distance from mouth to microphone policy.
-15. Turn off the fan before recording policy.
-16. Do not under-utilize nor over-utilize policies policy.
+10. Apple Podcasts subscription software component. 
+11. Apple Podcasts subscription policy.
+12. Piano interlude policy.
+13. Written script policy.
+14. Rule of 3 adoption policy.
+15. Documentation on Github policy.
+16. Four-inch distance from mouth to microphone policy.
+17. Turn off the fan before recording policy.
+18. Do not under-utilize nor over-utilize policies policy.
 
 _What makes up the podcast production system?_
 

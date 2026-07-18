@@ -17,6 +17,9 @@ This is my first attempt to add a documentation component to the PPS. This bring
 11. Written script policy.
 12. Rule of 3 adoption policy.
 13. Documentation on Github policy.
+14. Four-inch distance from mouth to microphone policy.
+15. Turn off the fan before recording policy.
+16. Do not under-utilize nor over-utilize policies policy.
 
 _What is the podcast production system?_
 

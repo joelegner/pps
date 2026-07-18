@@ -8,6 +8,14 @@ _What is this all about?_
 
 I have a podcast. I want to document it.
 
+_Where can I listen to this podcast?_
+
+![See Yall Later on Apple Podcasts](apple_podcasts_window.png)
+
+_What is the URL?_
+
+https://podcasts.apple.com/us/podcast/see-yall-later/id6791297832
+
 _What is the "podcast production system"?_
 
 The podcast production system is what I use to produce my podcast, "See yall later". It is available on Apple Podcasts. 
@@ -15,7 +23,7 @@ The podcast production system is what I use to produce my podcast, "See yall lat
 _What does the PPS depend on that is outside the PPS?_
 
 1. `RSS.com` website.
-2. `podcastconnect.apple.com` website.
+2. `podcastsconnect.apple.com` website.
 3. Apple Podcasts app.
 4. Apple Podcasts subscription.
 5. The practitioner, me, Joe Legner.

@@ -47,6 +47,7 @@ _What is the current set of components in the PPS?_
 17. Turn off the fan before recording policy.
 18. Do not under-utilize nor over-utilize policies policy.
 19. Policies are posted in this `README.md` file on Github policy. 
+20. Fountain script format policy. 
 
 _What makes up the podcast production system?_
 

@@ -138,3 +138,46 @@ Freeplane is an open-sourced mind mapping software which forked from a predecess
 _Where can I find out more about Freeplane?_
 
 https://docs.freeplane.org
+
+## Glossary
+
+Extrinsic content:
+: Podcast episode content from outside the podcast production system.
+
+Intrinsic content:
+: Podcast episode content from inside the podcast production system.
+
+Podcast content:
+: Content offered in part 2 of the standard three-part episode structure.
+
+## Glossary Candidate 1
+
+<dl>
+<dt>Extrinsic content</dt>
+<dd>Podcast episode content from outside the podcast production system.</dd>
+
+<dt>Intrinsic content</dt>
+<dd>Podcast episode content from inside the podcast production system.</dd>
+
+<dt>Podcast content</dt>
+<dd>Content offered in part 2 of the standard three-part episode structure.</dd>
+</dl>
+
+## Glossary Candidate 2
+
+| Term | Definition |
+|---|---|
+| Extrinsic content | Podcast episode content from outside the podcast production system. |
+| Intrinsic content | Podcast episode content from inside the podcast production system. |
+| Podcast content | Content offered in part 2 of the standard three-part episode structure. |
+
+## Glossary Candidate 3
+
+**Extrinsic content**
+Podcast episode content from outside the podcast production system.
+
+**Intrinsic content**
+Podcast episode content from inside the podcast production system.
+
+**Podcast content**
+Content offered in part 2 of the standard three-part episode structure.

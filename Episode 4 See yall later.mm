@@ -3,7 +3,7 @@
 <node TEXT="Episode 4&#xa;See yall later" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_452131666" CREATED="1610381621610" MODIFIED="1784643838157">
 <font NAME="Times New Roman"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" associatedTemplateLocation="template:/joes-freeplane-template.mm" show_note_icons="true" followedTemplateLocation="template:/joes-freeplane-template.mm" followedMapLastTime="1656438878472" fit_to_viewport="false" show_tags="UNDER_NODES"/>
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/joes-freeplane-template.mm" show_note_icons="true" followedTemplateLocation="template:/joes-freeplane-template.mm" followedMapLastTime="1656438878472" fit_to_viewport="false" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -74,10 +74,10 @@
 </map_styles>
 </hook>
 <node TEXT="SETUP" POSITION="top_or_left" ID="ID_1839148468" CREATED="1784643839150" MODIFIED="1784643841506"/>
-<node TEXT="Created this episode with a new method." POSITION="bottom_or_right" ID="ID_580317557" CREATED="1784643875467" MODIFIED="1784643882750"/>
-<node TEXT="Recorded an &quot;audio essay&quot; with my iPhone." POSITION="bottom_or_right" ID="ID_629888457" CREATED="1784643884477" MODIFIED="1784643912608"/>
-<node TEXT="Fired up Freeplane." POSITION="bottom_or_right" ID="ID_1033934710" CREATED="1784643914090" MODIFIED="1784643924771"/>
-<node TEXT="Outlined an episode on the left." FOLDED="true" POSITION="bottom_or_right" ID="ID_696185150" CREATED="1784643925219" MODIFIED="1784643931788">
+<node TEXT="Created this episode with a new method." POSITION="bottom_or_right" ID="ID_580317557" CREATED="1784643875467" MODIFIED="1784643882750">
+<node TEXT="Recorded an &quot;audio essay&quot; with my iPhone." ID="ID_629888457" CREATED="1784643884477" MODIFIED="1784643912608"/>
+<node TEXT="Fired up Freeplane." ID="ID_1033934710" CREATED="1784643914090" MODIFIED="1784643924771"/>
+<node TEXT="Outlined an episode on the left." FOLDED="true" ID="ID_696185150" CREATED="1784643925219" MODIFIED="1784643931788">
 <node TEXT="SETUP" ID="ID_880841249" CREATED="1784643839150" MODIFIED="1784643841506"/>
 <node TEXT="DO" ID="ID_929136988" CREATED="1784643841670" MODIFIED="1784643842326">
 <node TEXT="Theoretical Segment" ID="ID_858283015" CREATED="1784643843042" MODIFIED="1784643849296"/>
@@ -88,23 +88,52 @@
 <node TEXT="Housekeeping" ID="ID_628400126" CREATED="1784643862869" MODIFIED="1784643865331"/>
 </node>
 </node>
-<node TEXT="Started writing points to make on the right." POSITION="bottom_or_right" ID="ID_28725739" CREATED="1784643938109" MODIFIED="1784643946445"/>
-<node TEXT="Remembering intention is to sort into the structure on the left." POSITION="bottom_or_right" ID="ID_647609669" CREATED="1784643946924" MODIFIED="1784643958986"/>
-<node TEXT="After that, we will write the dialog." POSITION="bottom_or_right" ID="ID_1818163570" CREATED="1784643959142" MODIFIED="1784643969626"/>
-<node TEXT="We will read aloud repeatedly the dialog to always ensure it flows like natural, spoken word." POSITION="bottom_or_right" ID="ID_866928917" CREATED="1784643969821" MODIFIED="1784643991801"/>
-<node TEXT="Added the episode 4 mind map to the pps repository." POSITION="bottom_or_right" ID="ID_1618215868" CREATED="1784644054662" MODIFIED="1784644072648"/>
-<node TEXT="https://github.com/joelegner/pps/" POSITION="bottom_or_right" ID="ID_146206291" CREATED="1784644072803" MODIFIED="1784644080412"/>
-<node TEXT="I want How to Read a Book to be the first extra-podcast content." POSITION="bottom_or_right" ID="ID_1327307299" CREATED="1784644556839" MODIFIED="1784644601607"/>
-<node TEXT="Extra-podcast content is content that is not about the podcast." POSITION="bottom_or_right" ID="ID_1689763163" CREATED="1784644601845" MODIFIED="1784644610532"/>
-<node TEXT="When I recorded episode 1, I just winged it." POSITION="bottom_or_right" ID="ID_1770062820" CREATED="1784644610699" MODIFIED="1784644622235"/>
-<node TEXT="I was not trying to make anything great." POSITION="bottom_or_right" ID="ID_1142513654" CREATED="1784644622395" MODIFIED="1784644628406"/>
-<node TEXT="I just was trying to &quot;do the thing&quot; at the bare minimum." POSITION="bottom_or_right" ID="ID_1706329079" CREATED="1784644628542" MODIFIED="1784644636583"/>
-<node TEXT="In episode 2, the system grew very little." POSITION="bottom_or_right" ID="ID_1722687160" CREATED="1784644636792" MODIFIED="1784644655347"/>
-<node TEXT="I did roughtly the same thing as episode 1." POSITION="bottom_or_right" ID="ID_276483829" CREATED="1784644655519" MODIFIED="1784644663899"/>
+<node TEXT="Started writing points to make on the right." ID="ID_28725739" CREATED="1784643938109" MODIFIED="1784643946445"/>
+<node TEXT="Remembering intention is to sort into the structure on the left." ID="ID_647609669" CREATED="1784643946924" MODIFIED="1784643958986"/>
+<node TEXT="After that, we will write the dialog." ID="ID_1818163570" CREATED="1784643959142" MODIFIED="1784643969626"/>
+<node TEXT="We will read aloud repeatedly the dialog to always ensure it flows like natural, spoken word." ID="ID_866928917" CREATED="1784643969821" MODIFIED="1784643991801"/>
+</node>
+<node TEXT="Added the episode 4 mind map to the pps repository." POSITION="bottom_or_right" ID="ID_1618215868" CREATED="1784644054662" MODIFIED="1784644072648">
+<node TEXT="https://github.com/joelegner/pps/" ID="ID_146206291" CREATED="1784644072803" MODIFIED="1784644080412"/>
+</node>
+<node TEXT="I want How to Read a Book to be the first content I cover that is not reflexively the podcast itself." POSITION="bottom_or_right" ID="ID_1327307299" CREATED="1784644556839" MODIFIED="1784656085157"/>
+<node TEXT="In the Windows recycle bin of history are many blogs that started with an entry along the lines of &quot;how I set up my blog&quot; and just as quickly ended with the same entry." POSITION="bottom_or_right" ID="ID_607623638" CREATED="1784656086803" MODIFIED="1784656144212"/>
+<node TEXT="I am trying to keep my podcast out of the recycle bin." POSITION="bottom_or_right" ID="ID_345078743" CREATED="1784656152152" MODIFIED="1784656164193"/>
+<node TEXT="The best way to do that is to have fun with it." POSITION="bottom_or_right" ID="ID_1195747345" CREATED="1784656174233" MODIFIED="1784656181660"/>
+<node TEXT="The best way to have fun with it is to do it well." POSITION="bottom_or_right" ID="ID_959152981" CREATED="1784656181864" MODIFIED="1784656188569"/>
+<node TEXT="The best way to do it swell is to develop the craft." POSITION="bottom_or_right" ID="ID_328757048" CREATED="1784656230720" MODIFIED="1784656240652"/>
+<node TEXT="An artist works a craft." POSITION="bottom_or_right" ID="ID_1032658243" CREATED="1784656242772" MODIFIED="1784656251950"/>
+<node TEXT="A craft is a system of skills." POSITION="bottom_or_right" ID="ID_945016230" CREATED="1784656252089" MODIFIED="1784656313216"/>
+<node TEXT="Each skill interacts with neighboring skills." POSITION="bottom_or_right" ID="ID_579606850" CREATED="1784656314400" MODIFIED="1784656322671"/>
+<node TEXT="As you learn them, they become second nature." POSITION="bottom_or_right" ID="ID_550493167" CREATED="1784656322823" MODIFIED="1784656329397"/>
+<node TEXT="You have to do the thing to master the thing." POSITION="bottom_or_right" ID="ID_1762347579" CREATED="1784656362454" MODIFIED="1784656387443">
+<node TEXT="First you learn them logically, in your head." ID="ID_1550244044" CREATED="1784656330626" MODIFIED="1784656338176"/>
+<node TEXT="Second, you practice them." ID="ID_1827232477" CREATED="1784656339233" MODIFIED="1784656362279"/>
+</node>
+<node TEXT="Once all the skills in the skillset or craft as we called it before are up to the level of &quot;second nature&quot;, you are a master." POSITION="bottom_or_right" ID="ID_730889972" CREATED="1784656420004" MODIFIED="1784656444523"/>
+<node TEXT="When I recorded episode 1, I just winged it." POSITION="bottom_or_right" ID="ID_1770062820" CREATED="1784644610699" MODIFIED="1784644622235">
+<node TEXT="I set out only to check a box." ID="ID_1142513654" CREATED="1784644622395" MODIFIED="1784656040939"/>
+<node TEXT="I just was trying to &quot;do the thing&quot; at the bare minimum." ID="ID_1706329079" CREATED="1784644628542" MODIFIED="1784644636583"/>
+</node>
+<node TEXT="In episode 2, the system grew very little." POSITION="bottom_or_right" ID="ID_1722687160" CREATED="1784644636792" MODIFIED="1784644655347">
+<node TEXT="I did roughtly the same thing as episode 1." ID="ID_276483829" CREATED="1784644655519" MODIFIED="1784644663899"/>
+</node>
 <node TEXT="But by episode 3, I had devised the &quot;rule of 3&quot; structure for future episodes." POSITION="bottom_or_right" ID="ID_1562085847" CREATED="1784644664042" MODIFIED="1784644682905"/>
 <node TEXT="At the end of episode 3, I promised that episode 4 would be the first with content outside the podcast itself." POSITION="bottom_or_right" ID="ID_350000365" CREATED="1784644683048" MODIFIED="1784644701567"/>
-<node TEXT="We might call this extrinsic content rather than intrinsic content." POSITION="bottom_or_right" ID="ID_1526058774" CREATED="1784644701721" MODIFIED="1784644716402"/>
-<node TEXT="Our first extrinisic content will be How to Read a Book by Mortimer J. Adler." POSITION="bottom_or_right" ID="ID_881569053" CREATED="1784644716577" MODIFIED="1784644732616"/>
+<node TEXT="We might call this extrinsic content rather than intrinsic content." POSITION="bottom_or_right" ID="ID_1526058774" CREATED="1784644701721" MODIFIED="1784644716402">
+<node TEXT="I will specify my usage here." ID="ID_299925472" CREATED="1784656494881" MODIFIED="1784656509406">
+<node TEXT="As I am using it in today&apos;s episode, extrinsic means, &quot;externally originating&quot; and intrinsic means &quot;internalluy originating&quot;." ID="ID_1697432494" CREATED="1784656509595" MODIFIED="1784656633190"/>
+<node TEXT="We might call this externally originating content rather than internally originating content." ID="ID_1484621585" CREATED="1784644701721" MODIFIED="1784656676913"/>
+</node>
+<node TEXT="I hope that usage speification makes my point clear." ID="ID_1468792638" CREATED="1784656677852" MODIFIED="1784656692207"/>
+</node>
+<node TEXT="Extrinsic content is content from outside the podcast production system or &quot;pps&quot; as we call it." POSITION="bottom_or_right" ID="ID_881569053" CREATED="1784644716577" MODIFIED="1784656854212">
+<font ITALIC="false"/>
+</node>
+<node TEXT="I added that to my PPS glossary just now." POSITION="bottom_or_right" ID="ID_1074315277" CREATED="1784656856837" MODIFIED="1784656863873"/>
+<node TEXT="Our first extrinisic content, that is from _outside_ the podcast production system or &quot;pps&quot; as we call it, will be How to Read a Book by Mortimer J. Adler." POSITION="bottom_or_right" ID="ID_1356315716" CREATED="1784644716577" MODIFIED="1784656758137">
+<font ITALIC="false"/>
+</node>
 <node TEXT="Mortimer, as his name suggests, is something of a hyper-nerd." POSITION="bottom_or_right" ID="ID_1615258145" CREATED="1784644732771" MODIFIED="1784644743750"/>
 <node TEXT="Google him if you don&apos;t believe me." POSITION="bottom_or_right" ID="ID_220907456" CREATED="1784644942154" MODIFIED="1784644947593"/>
 <node TEXT="I like to count myself among the category &quot;nerd&quot;." POSITION="bottom_or_right" ID="ID_912172969" CREATED="1784644949489" MODIFIED="1784644961677"/>

@@ -142,13 +142,13 @@ https://docs.freeplane.org
 ## Glossary
 
 <dl>
-<dt>Extrinsic content</dt>
+<dt>Extrinsic content:</dt>
 <dd>Podcast episode content from outside the podcast production system.</dd>
 
-<dt>Intrinsic content</dt>
+<dt>Intrinsic content:</dt>
 <dd>Podcast episode content from inside the podcast production system.</dd>
 
-<dt>Podcast content</dt>
+<dt>Podcast content:</dt>
 <dd>Content offered in part 2 of the standard three-part episode structure.</dd>
 </dl>
 

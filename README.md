@@ -139,18 +139,7 @@ _Where can I find out more about Freeplane?_
 
 https://docs.freeplane.org
 
-## Glossary Candidate 1
-
-Extrinsic content:
-: Podcast episode content from outside the podcast production system.
-
-Intrinsic content:
-: Podcast episode content from inside the podcast production system.
-
-Podcast content:
-: Content offered in part 2 of the standard three-part episode structure.
-
-## Glossary Candidate 2
+## Glossary
 
 <dl>
 <dt>Extrinsic content</dt>
@@ -163,21 +152,6 @@ Podcast content:
 <dd>Content offered in part 2 of the standard three-part episode structure.</dd>
 </dl>
 
-## Glossary Candidate 3
+_How is the glossary represented in Markdown?_
 
-| Term | Definition |
-|---|---|
-| Extrinsic content | Podcast episode content from outside the podcast production system. |
-| Intrinsic content | Podcast episode content from inside the podcast production system. |
-| Podcast content | Content offered in part 2 of the standard three-part episode structure. |
-
-## Glossary Candidate 4
-
-**Extrinsic content**
-Podcast episode content from outside the podcast production system.
-
-**Intrinsic content**
-Podcast episode content from inside the podcast production system.
-
-**Podcast content**
-Content offered in part 2 of the standard three-part episode structure.
+It is represented as raw HTML code. 

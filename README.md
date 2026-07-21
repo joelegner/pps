@@ -139,7 +139,7 @@ _Where can I find out more about Freeplane?_
 
 https://docs.freeplane.org
 
-## Glossary
+## Glossary Candidate 1
 
 Extrinsic content:
 : Podcast episode content from outside the podcast production system.
@@ -150,7 +150,7 @@ Intrinsic content:
 Podcast content:
 : Content offered in part 2 of the standard three-part episode structure.
 
-## Glossary Candidate 1
+## Glossary Candidate 2
 
 <dl>
 <dt>Extrinsic content</dt>
@@ -163,7 +163,7 @@ Podcast content:
 <dd>Content offered in part 2 of the standard three-part episode structure.</dd>
 </dl>
 
-## Glossary Candidate 2
+## Glossary Candidate 3
 
 | Term | Definition |
 |---|---|
@@ -171,7 +171,7 @@ Podcast content:
 | Intrinsic content | Podcast episode content from inside the podcast production system. |
 | Podcast content | Content offered in part 2 of the standard three-part episode structure. |
 
-## Glossary Candidate 3
+## Glossary Candidate 4
 
 **Extrinsic content**
 Podcast episode content from outside the podcast production system.

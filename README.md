@@ -126,3 +126,15 @@ A series is a set of seasons.
 _Where is the documentation posted?_
 
 https://github.com/joelegner/pps/
+
+_What is in the outlines directory?_
+
+Freeplane mind maps.
+
+_What is Freeplane?_
+
+Freeplane is an open-sourced mind mapping software which forked from a predecessor called Freemind.
+
+_Where can I find out more about Freeplane?_
+
+https://docs.freeplane.org

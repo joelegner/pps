@@ -73,7 +73,58 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="SETUP" POSITION="top_or_left" ID="ID_1839148468" CREATED="1784643839150" MODIFIED="1784643841506"/>
+<node TEXT="# SETUP" POSITION="top_or_left" ID="ID_1839148468" CREATED="1784643839150" MODIFIED="1784735357084">
+<node TEXT="## Welcome listeners." ID="ID_1325577344" CREATED="1784735239586" MODIFIED="1784735361728">
+<node TEXT="I want to welcome you to the podcast." ID="ID_399567828" CREATED="1784734853715" MODIFIED="1784734860017"/>
+<node TEXT="### Introduce host" ID="ID_1094269472" CREATED="1784735479432" MODIFIED="1784735484214">
+<node TEXT="Who is this talking?" ID="ID_1265967897" CREATED="1784735909804" MODIFIED="1784735914884"/>
+<node TEXT="Hi." ID="ID_1708837627" CREATED="1784734812299" MODIFIED="1784734848058"/>
+<node TEXT="Hi. What is your name?" ID="ID_254870054" CREATED="1784735949173" MODIFIED="1784735956153"/>
+<node TEXT="My name is Joe Legner." ID="ID_818548670" CREATED="1784735932911" MODIFIED="1784735936308"/>
+<node TEXT="What is your title?" ID="ID_1576446103" CREATED="1784735944617" MODIFIED="1784735947412"/>
+<node TEXT="I&apos;m the host of the &quot;see yall later&quot; podcast." ID="ID_88632065" CREATED="1784734848338" MODIFIED="1784735932094"/>
+</node>
+<node TEXT="### Introduce episode" ID="ID_1497961212" CREATED="1784735412157" MODIFIED="1784735494519">
+<node TEXT="This is episode 4 of season 1 of the &quot;See yall later&quot; podcast." ID="ID_1942269542" CREATED="1784734812299" MODIFIED="1784735182132"/>
+</node>
+<node TEXT="### Introduce season." ID="ID_290940337" CREATED="1784735441373" MODIFIED="1784735500188">
+<node TEXT="Season 1 of the podcast is dedicated to an experiment in evolutionary system improvement." ID="ID_1548611382" CREATED="1784734924430" MODIFIED="1784735164740">
+<node TEXT="It follows a rule I call &quot;gall&apos;s law&quot;, which is named after its discoverer, the author of The Misuse of Systems, John Gall." ID="ID_249013559" CREATED="1784734947017" MODIFIED="1784734981084"/>
+<node TEXT="This week&apos;s incremental improvement is to have an extrinsic topic, which we will get into shortly." ID="ID_150922170" CREATED="1784734983760" MODIFIED="1784735005155"/>
+</node>
+</node>
+<node TEXT="###  Say how to find us" ID="ID_1278843970" CREATED="1784735500492" MODIFIED="1784735510709">
+<node TEXT="How can you find us?" ID="ID_581979862" CREATED="1784735890220" MODIFIED="1784735893882"/>
+<node TEXT="Find this epside and more on Apple Podcasts." ID="ID_615821544" CREATED="1784735562792" MODIFIED="1784735575977"/>
+<node TEXT="Search for See yall later." ID="ID_460000650" CREATED="1784735576869" MODIFIED="1784735592539"/>
+<node TEXT="I have included a link." ID="ID_930336661" CREATED="1784735593010" MODIFIED="1784735717321"/>
+</node>
+</node>
+<node TEXT="## Cover topic content for today." ID="ID_15933044" CREATED="1784735252497" MODIFIED="1784735750464">
+<node TEXT="### Introduce structure" ID="ID_961134860" CREATED="1784735754853" MODIFIED="1784735760000">
+<node TEXT="What are we going to talk about today?" ID="ID_1706842659" CREATED="1784735867232" MODIFIED="1784736073419"/>
+<node TEXT="I will answer that by explaining the structure first." ID="ID_1612845363" CREATED="1784736074005" MODIFIED="1784736091311">
+<node TEXT="The content of the show is divided into three segments." ID="ID_301191972" CREATED="1784735767266" MODIFIED="1784735778576"/>
+<node TEXT="The first segment in today&apos;s epsidoe is theoretical." ID="ID_1326116907" CREATED="1784735785973" MODIFIED="1784735828243"/>
+<node TEXT="The second segment in today&apos;s episode is practical." ID="ID_417995545" CREATED="1784735791683" MODIFIED="1784735841362"/>
+<node TEXT="And the third is traditional: I call it my &quot;music feature segment.&quot;" ID="ID_1350117327" CREATED="1784735796025" MODIFIED="1784735811451"/>
+</node>
+</node>
+<node TEXT="### Introduce content within structure" ID="ID_574569462" CREATED="1784735760743" MODIFIED="1784735765949">
+<node TEXT="What is our &quot;content&quot; for today?" ID="ID_410506188" CREATED="1784735876864" MODIFIED="1784736144264"/>
+<node TEXT="My theoretical content today is from the book How to Read a Book by Mortimer J. Adler." ID="ID_1804705669" CREATED="1784736150248" MODIFIED="1784736304862"/>
+<node TEXT="Practical content will be how to use the recommendations of that book." ID="ID_9874185" CREATED="1784736156650" MODIFIED="1784736288188">
+<node TEXT="We will listen in on how that process is going." ID="ID_508938164" CREATED="1784735114027" MODIFIED="1784735126182"/>
+</node>
+<node TEXT="And as always, the third and final segment is my musical feature." ID="ID_1844002904" CREATED="1784734879395" MODIFIED="1784736321710">
+<node TEXT="Todays musical feature is related to my dueling pianos career." ID="ID_588883488" CREATED="1784735053119" MODIFIED="1784735065795"/>
+<node TEXT="I am attempting master the rap song Lose Yourself by Eminem." ID="ID_793241060" CREATED="1784735066453" MODIFIED="1784735103413"/>
+<node TEXT="We will listen in on how that process is going." ID="ID_972416458" CREATED="1784735114027" MODIFIED="1784735126182"/>
+</node>
+</node>
+</node>
+<node TEXT="Transition Out" ID="ID_1231349739" CREATED="1784735242545" MODIFIED="1784735244529"/>
+</node>
 <node TEXT="Created this episode with a new method." POSITION="bottom_or_right" ID="ID_580317557" CREATED="1784643875467" MODIFIED="1784643882750">
 <node TEXT="Recorded an &quot;audio essay&quot; with my iPhone." ID="ID_629888457" CREATED="1784643884477" MODIFIED="1784643912608"/>
 <node TEXT="Fired up Freeplane." ID="ID_1033934710" CREATED="1784643914090" MODIFIED="1784643924771"/>
@@ -180,7 +231,7 @@
 <node TEXT="There are four questions that you ask any book." POSITION="bottom_or_right" ID="ID_1187275116" CREATED="1784646396380" MODIFIED="1784646409829"/>
 <node TEXT="Mortimer J Adler tells us how to attack a book: ask it questions." POSITION="bottom_or_right" ID="ID_1256987202" CREATED="1784646410023" MODIFIED="1784646421328"/>
 <node TEXT="What does the title tell me about this book?" POSITION="bottom_or_right" ID="ID_1948050768" CREATED="1784646427334" MODIFIED="1784646434997"/>
-<node TEXT="What does the table of contents tell me about this book?" POSITION="bottom_or_right" ID="ID_94429384" CREATED="1784646435594" MODIFIED="1784646442580">
+<node TEXT="What does the table of contents tell me about this book?" FOLDED="true" POSITION="bottom_or_right" ID="ID_94429384" CREATED="1784646435594" MODIFIED="1784646442580">
 <node TEXT="There is an introduction and a list of many famous people." ID="ID_804805204" CREATED="1784646476821" MODIFIED="1784646488890">
 <node TEXT="Francis Bacon." ID="ID_1532749001" CREATED="1784646493861" MODIFIED="1784646496671"/>
 <node TEXT="Wolfgang Amadeus Mozart." ID="ID_548459838" CREATED="1784646497063" MODIFIED="1784646525421"/>
@@ -240,11 +291,6 @@
 </node>
 <node TEXT="So Ayn Rand&apos;s habit of taking amphetamines is probably not to me." ID="ID_1086617778" CREATED="1784647298195" MODIFIED="1784647308880"/>
 <node TEXT="But I am still satisfied that the episode 4 plan is a good one." ID="ID_1628578368" CREATED="1784647309038" MODIFIED="1784647325067"/>
-</node>
-</node>
-<node TEXT="What is thinking?" POSITION="bottom_or_right" ID="ID_1381732568" CREATED="1784646443065" MODIFIED="1784646446441">
-<node TEXT="Asking and answering questions." ID="ID_1617743681" CREATED="1784646446606" MODIFIED="1784646450715">
-<node TEXT="Answering creates new questions." ID="ID_1778200594" CREATED="1784647488188" MODIFIED="1784647495630"/>
 </node>
 </node>
 <node TEXT="What is the process I followed to make episode 4?" POSITION="bottom_or_right" ID="ID_1070447526" CREATED="1784647357767" MODIFIED="1784660135981">
@@ -367,9 +413,34 @@
 <node TEXT="An artist is someone who does the thing." POSITION="bottom_or_right" ID="ID_1790339059" CREATED="1784645323531" MODIFIED="1784645329581"/>
 <node TEXT="A master is an artist who has mastered the skills to do the thing in one or more superior ways." POSITION="bottom_or_right" ID="ID_1177852404" CREATED="1784645329766" MODIFIED="1784645348702"/>
 <node TEXT="DO" POSITION="top_or_left" ID="ID_123191916" CREATED="1784643841670" MODIFIED="1784643842326">
-<node TEXT="Theoretical Segment" ID="ID_1036539476" CREATED="1784643843042" MODIFIED="1784643849296"/>
-<node TEXT="Practical Segment" ID="ID_1125184543" CREATED="1784643849501" MODIFIED="1784643855088"/>
-<node TEXT="Musical Segment" ID="ID_1236302402" CREATED="1784643855260" MODIFIED="1784643858152"/>
+<node TEXT="Theoretical Segment" ID="ID_1036539476" CREATED="1784643843042" MODIFIED="1784643849296">
+<node TEXT="What is thinking?" ID="ID_1381732568" CREATED="1784646443065" MODIFIED="1784646446441">
+<node TEXT="Asking and answering questions." ID="ID_1617743681" CREATED="1784646446606" MODIFIED="1784646450715">
+<node TEXT="Answering creates new questions." ID="ID_1778200594" CREATED="1784647488188" MODIFIED="1784647495630"/>
+</node>
+</node>
+<node TEXT="### Set up theoretical segment" ID="ID_521937453" CREATED="1784736406969" MODIFIED="1784736417094">
+<node TEXT="What will we talk about in the theoretical segment?" ID="ID_450096922" CREATED="1784736623277" MODIFIED="1784736634749"/>
+</node>
+<node TEXT="### Explain How to Read a book" ID="ID_1194274037" CREATED="1784736417414" MODIFIED="1784736427266"/>
+<node TEXT="### Clean up theoretical segment" ID="ID_1450970442" CREATED="1784736427623" MODIFIED="1784736433295"/>
+</node>
+<node TEXT="Practical Segment" ID="ID_1125184543" CREATED="1784643849501" MODIFIED="1784643855088">
+<node TEXT="### Say what we are going to do." ID="ID_730734242" CREATED="1784736406969" MODIFIED="1784736453260">
+<node TEXT="What will I do in today&apos;s practical segment?" ID="ID_1263848373" CREATED="1784736581584" MODIFIED="1784736618027"/>
+</node>
+<node TEXT="### Listen and talk about it." ID="ID_608921016" CREATED="1784736417414" MODIFIED="1784736462997"/>
+<node TEXT="### Talk about any system lessons." ID="ID_617598662" CREATED="1784736427623" MODIFIED="1784736529423"/>
+</node>
+<node TEXT="Musical Segment" ID="ID_1236302402" CREATED="1784643855260" MODIFIED="1784643858152">
+<node TEXT="### Say what we are trying to do." ID="ID_159259301" CREATED="1784736406969" MODIFIED="1784736490121">
+<node TEXT="What are we going to do in the musical segment?" ID="ID_577296001" CREATED="1784736581584" MODIFIED="1784736587942"/>
+</node>
+<node TEXT="### Listen and discuss us doing it." ID="ID_1220358435" CREATED="1784736417414" MODIFIED="1784736497386"/>
+<node TEXT="### Talk about lessons from doing it." ID="ID_205260016" CREATED="1784736427623" MODIFIED="1784736570263">
+<node TEXT="What lessons did I learn while doing this?" ID="ID_705845827" CREATED="1784736571771" MODIFIED="1784736579558"/>
+</node>
+</node>
 </node>
 <node TEXT="CLEANUP" POSITION="top_or_left" ID="ID_532634630" CREATED="1784643859031" MODIFIED="1784643861186">
 <node TEXT="Housekeeping" ID="ID_147655970" CREATED="1784643862869" MODIFIED="1784643865331"/>

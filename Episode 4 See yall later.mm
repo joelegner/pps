@@ -1,9 +1,10 @@
-<map version="freeplane 1.12.1">
+<map version="freeplane 1.12.15">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Episode 4&#xa;See yall later" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_452131666" CREATED="1610381621610" MODIFIED="1784643838157">
+<bookmarks/>
+<node TEXT="Episode 4&#xa;See yall later" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_452131666" CREATED="1610381621610" MODIFIED="1784761981763">
 <font NAME="Times New Roman"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/joes-freeplane-template.mm" show_note_icons="true" followedTemplateLocation="template:/joes-freeplane-template.mm" followedMapLastTime="1656438878472" fit_to_viewport="false" showTagCategories="false"/>
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" associatedTemplateLocation="template:/joes-freeplane-template.mm" show_note_icons="true" followedTemplateLocation="template:/joes-freeplane-template.mm" followedMapLastTime="1656438878472" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false" show_tags="UNDER_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -73,377 +74,35 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="# SETUP" POSITION="top_or_left" ID="ID_1839148468" CREATED="1784643839150" MODIFIED="1784735357084">
-<node TEXT="## Welcome listeners." ID="ID_1325577344" CREATED="1784735239586" MODIFIED="1784735361728">
-<node TEXT="I want to welcome you to the podcast." ID="ID_399567828" CREATED="1784734853715" MODIFIED="1784734860017"/>
-<node TEXT="### Introduce host" ID="ID_1094269472" CREATED="1784735479432" MODIFIED="1784735484214">
-<node TEXT="Who is this talking?" ID="ID_1265967897" CREATED="1784735909804" MODIFIED="1784735914884"/>
-<node TEXT="Hi." ID="ID_1708837627" CREATED="1784734812299" MODIFIED="1784734848058"/>
-<node TEXT="Hi. What is your name?" ID="ID_254870054" CREATED="1784735949173" MODIFIED="1784735956153"/>
-<node TEXT="My name is Joe Legner." ID="ID_818548670" CREATED="1784735932911" MODIFIED="1784735936308"/>
-<node TEXT="What is your title?" ID="ID_1576446103" CREATED="1784735944617" MODIFIED="1784735947412"/>
-<node TEXT="I&apos;m the host of the &quot;see yall later&quot; podcast." ID="ID_88632065" CREATED="1784734848338" MODIFIED="1784735932094"/>
+<node TEXT="1. SET UP THE SEGMENTS." POSITION="bottom_or_right" ID="ID_486265118" CREATED="1784761985719" MODIFIED="1784762036614">
+<node TEXT="Set up the setup part." ID="ID_1210350957" CREATED="1784762054485" MODIFIED="1784762075303"/>
+<node TEXT="Do the setup part." ID="ID_775015618" CREATED="1784762075739" MODIFIED="1784762078717"/>
+<node TEXT="Clean up after the setup part." ID="ID_179965474" CREATED="1784762078956" MODIFIED="1784762085189"/>
+</node>
+<node TEXT="2. DO THE SEGMENTS." POSITION="bottom_or_right" ID="ID_1926935798" CREATED="1784762016503" MODIFIED="1784762045982">
+<node TEXT="Set up the segments part." ID="ID_194006347" CREATED="1784762086501" MODIFIED="1784762090606">
+<node TEXT="We will now transition into the segments part of the program." ID="ID_87859420" CREATED="1784762169580" MODIFIED="1784762177781"/>
+<node TEXT="This is where I talk about the topic for today." ID="ID_546817511" CREATED="1784762177933" MODIFIED="1784762191325">
+<node TEXT="We talk first in theory." ID="ID_710160769" CREATED="1784762204644" MODIFIED="1784762212029"/>
+<node TEXT="After that we talk in practice about the topic." ID="ID_1573449793" CREATED="1784762212196" MODIFIED="1784762219613"/>
+</node>
+<node TEXT="And the segments part is also where we do the fun &quot;musical segment&quot;." ID="ID_1031436184" CREATED="1784762191517" MODIFIED="1784762241725"/>
+</node>
+<node TEXT="Do the segments part." ID="ID_687859958" CREATED="1784762090749" MODIFIED="1784762094421">
+<node TEXT="Do the theory segment." ID="ID_1435758666" CREATED="1784762251635" MODIFIED="1784762255036"/>
+<node TEXT="Do the practice segment." ID="ID_430652811" CREATED="1784762255195" MODIFIED="1784762258836"/>
+<node TEXT="Do the musical segment." ID="ID_1490416399" CREATED="1784762259019" MODIFIED="1784762265044"/>
+</node>
+<node TEXT="Clean up after the segments part." ID="ID_1853201249" CREATED="1784762094660" MODIFIED="1784762099465"/>
+</node>
+<node TEXT="3. CLEAN UP AFTER THE SEGMENTS." POSITION="bottom_or_right" ID="ID_879877836" CREATED="1784761999317" MODIFIED="1784762049740">
+<node TEXT="Set up the clean up." ID="ID_426106839" CREATED="1784762100989" MODIFIED="1784762108445"/>
+<node TEXT="Do the cleanup." ID="ID_1852145176" CREATED="1784762108644" MODIFIED="1784762111906"/>
+<node TEXT="Clean up after the cleanup." ID="ID_309401877" CREATED="1784762112121" MODIFIED="1784762120962">
+<node TEXT="I&apos;m Joe Legner." ID="ID_1141020859" CREATED="1784762121433" MODIFIED="1784762125510"/>
+<node TEXT="This has been episode 4, season 1 of see yall later podcast." ID="ID_1869441873" CREATED="1784762140130" MODIFIED="1784762151643"/>
+<node TEXT="See yall later." ID="ID_1043384347" CREATED="1784762125645" MODIFIED="1784762138689"/>
 </node>
-<node TEXT="### Introduce episode" ID="ID_1497961212" CREATED="1784735412157" MODIFIED="1784735494519">
-<node TEXT="This is episode 4 of season 1 of the &quot;See yall later&quot; podcast." ID="ID_1942269542" CREATED="1784734812299" MODIFIED="1784735182132"/>
-</node>
-<node TEXT="### Introduce season." ID="ID_290940337" CREATED="1784735441373" MODIFIED="1784735500188">
-<node TEXT="Season 1 of the podcast is dedicated to an experiment in evolutionary system improvement." ID="ID_1548611382" CREATED="1784734924430" MODIFIED="1784735164740">
-<node TEXT="It follows a rule I call &quot;gall&apos;s law&quot;, which is named after its discoverer, the author of The Misuse of Systems, John Gall." ID="ID_249013559" CREATED="1784734947017" MODIFIED="1784734981084"/>
-<node TEXT="This week&apos;s incremental improvement is to have an extrinsic topic, which we will get into shortly." ID="ID_150922170" CREATED="1784734983760" MODIFIED="1784735005155"/>
-</node>
-</node>
-<node TEXT="###  Say how to find us" ID="ID_1278843970" CREATED="1784735500492" MODIFIED="1784735510709">
-<node TEXT="How can you find us?" ID="ID_581979862" CREATED="1784735890220" MODIFIED="1784735893882"/>
-<node TEXT="Find this epside and more on Apple Podcasts." ID="ID_615821544" CREATED="1784735562792" MODIFIED="1784735575977"/>
-<node TEXT="Search for See yall later." ID="ID_460000650" CREATED="1784735576869" MODIFIED="1784735592539"/>
-<node TEXT="I have included a link." ID="ID_930336661" CREATED="1784735593010" MODIFIED="1784735717321"/>
-</node>
-</node>
-<node TEXT="## Cover topic content for today." ID="ID_15933044" CREATED="1784735252497" MODIFIED="1784735750464">
-<node TEXT="### Introduce structure" ID="ID_961134860" CREATED="1784735754853" MODIFIED="1784735760000">
-<node TEXT="What are we going to talk about today?" ID="ID_1706842659" CREATED="1784735867232" MODIFIED="1784736073419"/>
-<node TEXT="I will answer that by explaining the structure first." ID="ID_1612845363" CREATED="1784736074005" MODIFIED="1784736091311">
-<node TEXT="The content of the show is divided into three segments." ID="ID_301191972" CREATED="1784735767266" MODIFIED="1784735778576"/>
-<node TEXT="The first segment in today&apos;s epsidoe is theoretical." ID="ID_1326116907" CREATED="1784735785973" MODIFIED="1784735828243"/>
-<node TEXT="The second segment in today&apos;s episode is practical." ID="ID_417995545" CREATED="1784735791683" MODIFIED="1784735841362"/>
-<node TEXT="And the third is traditional: I call it my &quot;music feature segment.&quot;" ID="ID_1350117327" CREATED="1784735796025" MODIFIED="1784735811451"/>
-</node>
-</node>
-<node TEXT="### Introduce content within structure" ID="ID_574569462" CREATED="1784735760743" MODIFIED="1784735765949">
-<node TEXT="What is our &quot;content&quot; for today?" ID="ID_410506188" CREATED="1784735876864" MODIFIED="1784736144264"/>
-<node TEXT="My theoretical content today is from the book How to Read a Book by Mortimer J. Adler." ID="ID_1804705669" CREATED="1784736150248" MODIFIED="1784736304862"/>
-<node TEXT="Practical content will be how to use the recommendations of that book." ID="ID_9874185" CREATED="1784736156650" MODIFIED="1784736288188">
-<node TEXT="We will listen in on how that process is going." ID="ID_508938164" CREATED="1784735114027" MODIFIED="1784735126182"/>
-</node>
-<node TEXT="And as always, the third and final segment is my musical feature." ID="ID_1844002904" CREATED="1784734879395" MODIFIED="1784736321710">
-<node TEXT="Todays musical feature is related to my dueling pianos career." ID="ID_588883488" CREATED="1784735053119" MODIFIED="1784735065795"/>
-<node TEXT="I am attempting master the rap song Lose Yourself by Eminem." ID="ID_793241060" CREATED="1784735066453" MODIFIED="1784735103413"/>
-<node TEXT="We will listen in on how that process is going." ID="ID_972416458" CREATED="1784735114027" MODIFIED="1784735126182"/>
-</node>
-</node>
-</node>
-<node TEXT="Transition Out" ID="ID_1231349739" CREATED="1784735242545" MODIFIED="1784735244529"/>
-</node>
-<node TEXT="Created this episode with a new method." POSITION="bottom_or_right" ID="ID_580317557" CREATED="1784643875467" MODIFIED="1784643882750">
-<node TEXT="Recorded an &quot;audio essay&quot; with my iPhone." ID="ID_629888457" CREATED="1784643884477" MODIFIED="1784643912608"/>
-<node TEXT="Fired up Freeplane." ID="ID_1033934710" CREATED="1784643914090" MODIFIED="1784643924771"/>
-<node TEXT="Outlined an episode on the left." FOLDED="true" ID="ID_696185150" CREATED="1784643925219" MODIFIED="1784643931788">
-<node TEXT="SETUP" ID="ID_880841249" CREATED="1784643839150" MODIFIED="1784643841506"/>
-<node TEXT="DO" ID="ID_929136988" CREATED="1784643841670" MODIFIED="1784643842326">
-<node TEXT="Theoretical Segment" ID="ID_858283015" CREATED="1784643843042" MODIFIED="1784643849296"/>
-<node TEXT="Practical Segment" ID="ID_591507182" CREATED="1784643849501" MODIFIED="1784643855088"/>
-<node TEXT="Musical Segment" ID="ID_1975732460" CREATED="1784643855260" MODIFIED="1784643858152"/>
-</node>
-<node TEXT="CLEANUP" ID="ID_210640183" CREATED="1784643859031" MODIFIED="1784643861186">
-<node TEXT="Housekeeping" ID="ID_628400126" CREATED="1784643862869" MODIFIED="1784643865331"/>
-</node>
-</node>
-<node TEXT="Started writing points to make on the right." ID="ID_28725739" CREATED="1784643938109" MODIFIED="1784643946445"/>
-<node TEXT="Remembering intention is to sort into the structure on the left." ID="ID_647609669" CREATED="1784643946924" MODIFIED="1784643958986"/>
-<node TEXT="After that, we will write the dialog." ID="ID_1818163570" CREATED="1784643959142" MODIFIED="1784643969626"/>
-<node TEXT="We will read aloud repeatedly the dialog to always ensure it flows like natural, spoken word." ID="ID_866928917" CREATED="1784643969821" MODIFIED="1784643991801"/>
-</node>
-<node TEXT="Added the episode 4 mind map to the pps repository." POSITION="bottom_or_right" ID="ID_1618215868" CREATED="1784644054662" MODIFIED="1784644072648">
-<node TEXT="https://github.com/joelegner/pps/" ID="ID_146206291" CREATED="1784644072803" MODIFIED="1784644080412"/>
-</node>
-<node TEXT="I want How to Read a Book to be the first content I cover that is not reflexively the podcast itself." POSITION="bottom_or_right" ID="ID_1327307299" CREATED="1784644556839" MODIFIED="1784656085157"/>
-<node TEXT="In the Windows recycle bin of history are many blogs that started with an entry along the lines of &quot;how I set up my blog&quot; and just as quickly ended with the same entry." POSITION="bottom_or_right" ID="ID_607623638" CREATED="1784656086803" MODIFIED="1784656144212"/>
-<node TEXT="I am trying to keep my podcast out of the recycle bin." POSITION="bottom_or_right" ID="ID_345078743" CREATED="1784656152152" MODIFIED="1784656164193"/>
-<node TEXT="The best way to do that is to have fun with it." POSITION="bottom_or_right" ID="ID_1195747345" CREATED="1784656174233" MODIFIED="1784656181660"/>
-<node TEXT="The best way to have fun with it is to do it well." POSITION="bottom_or_right" ID="ID_959152981" CREATED="1784656181864" MODIFIED="1784656188569"/>
-<node TEXT="The best way to do it swell is to develop the craft." POSITION="bottom_or_right" ID="ID_328757048" CREATED="1784656230720" MODIFIED="1784656240652"/>
-<node TEXT="An artist works a craft." POSITION="bottom_or_right" ID="ID_1032658243" CREATED="1784656242772" MODIFIED="1784656251950"/>
-<node TEXT="A craft is a system of skills." POSITION="bottom_or_right" ID="ID_945016230" CREATED="1784656252089" MODIFIED="1784656313216"/>
-<node TEXT="Each skill interacts with neighboring skills." POSITION="bottom_or_right" ID="ID_579606850" CREATED="1784656314400" MODIFIED="1784656322671"/>
-<node TEXT="As you learn them, they become second nature." POSITION="bottom_or_right" ID="ID_550493167" CREATED="1784656322823" MODIFIED="1784656329397"/>
-<node TEXT="You have to do the thing to master the thing." POSITION="bottom_or_right" ID="ID_1762347579" CREATED="1784656362454" MODIFIED="1784656387443">
-<node TEXT="First you learn them logically, in your head." ID="ID_1550244044" CREATED="1784656330626" MODIFIED="1784656338176"/>
-<node TEXT="Second, you practice them." ID="ID_1827232477" CREATED="1784656339233" MODIFIED="1784656362279"/>
-</node>
-<node TEXT="Once all the skills in the skillset or craft as we called it before are up to the level of &quot;second nature&quot;, you are a master." POSITION="bottom_or_right" ID="ID_730889972" CREATED="1784656420004" MODIFIED="1784656444523"/>
-<node TEXT="When I recorded episode 1, I just winged it." POSITION="bottom_or_right" ID="ID_1770062820" CREATED="1784644610699" MODIFIED="1784644622235">
-<node TEXT="I set out only to check a box." ID="ID_1142513654" CREATED="1784644622395" MODIFIED="1784656040939"/>
-<node TEXT="I just was trying to &quot;do the thing&quot; at the bare minimum." ID="ID_1706329079" CREATED="1784644628542" MODIFIED="1784644636583"/>
-</node>
-<node TEXT="In episode 2, the system grew very little." POSITION="bottom_or_right" ID="ID_1722687160" CREATED="1784644636792" MODIFIED="1784644655347">
-<node TEXT="I did roughtly the same thing as episode 1." ID="ID_276483829" CREATED="1784644655519" MODIFIED="1784644663899"/>
-</node>
-<node TEXT="But by episode 3, I had devised the &quot;rule of 3&quot; structure for future episodes." POSITION="bottom_or_right" ID="ID_1562085847" CREATED="1784644664042" MODIFIED="1784644682905"/>
-<node TEXT="At the end of episode 3, I promised that episode 4 would be the first with content outside the podcast itself." POSITION="bottom_or_right" ID="ID_350000365" CREATED="1784644683048" MODIFIED="1784644701567"/>
-<node TEXT="We might call this extrinsic content rather than intrinsic content." POSITION="bottom_or_right" ID="ID_1526058774" CREATED="1784644701721" MODIFIED="1784644716402">
-<node TEXT="I will specify my usage here." ID="ID_299925472" CREATED="1784656494881" MODIFIED="1784656509406">
-<node TEXT="As I am using it in today&apos;s episode, extrinsic means, &quot;externally originating&quot; and intrinsic means &quot;internalluy originating&quot;." ID="ID_1697432494" CREATED="1784656509595" MODIFIED="1784656633190"/>
-<node TEXT="We might call this externally originating content rather than internally originating content." ID="ID_1484621585" CREATED="1784644701721" MODIFIED="1784656676913"/>
-</node>
-<node TEXT="I hope that usage speification makes my point clear." ID="ID_1468792638" CREATED="1784656677852" MODIFIED="1784656692207"/>
-</node>
-<node TEXT="Extrinsic content is content from outside the podcast production system or &quot;pps&quot; as we call it." POSITION="bottom_or_right" ID="ID_881569053" CREATED="1784644716577" MODIFIED="1784656854212">
-<font ITALIC="false"/>
-</node>
-<node TEXT="I added that to my PPS glossary just now." POSITION="bottom_or_right" ID="ID_1074315277" CREATED="1784656856837" MODIFIED="1784656863873"/>
-<node TEXT="The PPS needs a moral justification to avoid becoming a paper clip maximizer." POSITION="bottom_or_right" ID="ID_18841433" CREATED="1784659171113" MODIFIED="1784659192531"/>
-<node TEXT="A paper clip maximizer is when you imagine building a machine that tries to turn the whole universe into paper clips, defeating any attempts to stop it, as a comedic case study to say that &quot;incentives matter&quot;." POSITION="bottom_or_right" ID="ID_1139750452" CREATED="1784659193211" MODIFIED="1784659250986"/>
-<node TEXT="Incentives matter." POSITION="bottom_or_right" ID="ID_102965228" CREATED="1784659258982" MODIFIED="1784659262434"/>
-<node TEXT="The incentive of the PPS is the incentive of the author: reduce suffering." POSITION="bottom_or_right" ID="ID_476330915" CREATED="1784659269921" MODIFIED="1784659282064"/>
-<node TEXT="I call this my &quot;ground rule&quot; or my &quot;foundational rule&quot; or my &quot;fundamental rule&quot;." POSITION="bottom_or_right" ID="ID_836225660" CREATED="1784659282241" MODIFIED="1784659295132"/>
-<node TEXT="I offer no justification for it and feel no need to excuse it." POSITION="bottom_or_right" ID="ID_1788903761" CREATED="1784659295378" MODIFIED="1784659308278"/>
-<node TEXT="Our first extrinisic content, that is from _outside_ the podcast production system or &quot;pps&quot; as we call it, will be How to Read a Book by Mortimer J. Adler." POSITION="bottom_or_right" ID="ID_1356315716" CREATED="1784644716577" MODIFIED="1784656758137">
-<font ITALIC="false"/>
-</node>
-<node TEXT="Helping listeners read better is one way to follow my ground rule." POSITION="bottom_or_right" ID="ID_824789838" CREATED="1784659344573" MODIFIED="1784659413785"/>
-<node TEXT="And I, too, benefit from the process." POSITION="bottom_or_right" ID="ID_1046048305" CREATED="1784659427645" MODIFIED="1784659433304"/>
-<node TEXT="Thinking through my ideas while writing the script goes a long way to helping me level up my skills in many areas." POSITION="bottom_or_right" ID="ID_1028243940" CREATED="1784659433477" MODIFIED="1784659460338"/>
-<node TEXT="Let&apos;s get back to How to Read a book by Mortimer J. Adler." POSITION="bottom_or_right" ID="ID_917432704" CREATED="1784659463036" MODIFIED="1784659476304"/>
-<node TEXT="Mortimer, as his name suggests, is something of a hyper-nerd." POSITION="bottom_or_right" ID="ID_1615258145" CREATED="1784644732771" MODIFIED="1784644743750"/>
-<node TEXT="Google him if you don&apos;t believe me." POSITION="bottom_or_right" ID="ID_220907456" CREATED="1784644942154" MODIFIED="1784644947593"/>
-<node TEXT="I am interested in Mortimer." POSITION="bottom_or_right" ID="ID_40000509" CREATED="1784644972651" MODIFIED="1784659501424">
-<node TEXT="Mortimer is a hyper-nerd." ID="ID_71103101" CREATED="1784659506917" MODIFIED="1784659511547"/>
-<node TEXT="As an ordinary nerd, he is my better." ID="ID_1366772036" CREATED="1784659512788" MODIFIED="1784659518422"/>
-<node TEXT="As he teaches in this book, you can only gain understanding from someone who is in a sense better than you." ID="ID_1778276488" CREATED="1784659523672" MODIFIED="1784659543924">
-<node TEXT="They have more knowledge." ID="ID_964911578" CREATED="1784659544250" MODIFIED="1784659547861"/>
-<node TEXT="They have practical experience." ID="ID_1019107124" CREATED="1784659548039" MODIFIED="1784659552496"/>
-<node TEXT="They have well-developed skills." ID="ID_530643724" CREATED="1784659552625" MODIFIED="1784659557333"/>
-<node TEXT="They have produced things that prove their mastery." ID="ID_1594802526" CREATED="1784659557480" MODIFIED="1784659568597"/>
-<node TEXT="This is the kind of author to seek out when you want to read a book." ID="ID_306420566" CREATED="1784659575746" MODIFIED="1784659587819"/>
-<node TEXT="For me, at least, Mortimer J. Adler is just such an author." ID="ID_1080584652" CREATED="1784659587966" MODIFIED="1784659597937"/>
-</node>
-</node>
-<node TEXT="I am also interested in the artists in the book Daily Rituals: How Artists Work by Mason Currey." POSITION="bottom_or_right" ID="ID_1746122601" CREATED="1784644982768" MODIFIED="1784645002088"/>
-<node TEXT="Daily Rituals will be our case study in reading according to How to Read a Book." POSITION="bottom_or_right" ID="ID_523357362" CREATED="1784646166039" MODIFIED="1784646183276"/>
-<node TEXT="Here is the book, Daily Rituals, from the mind of Mason Currey." POSITION="bottom_or_right" ID="ID_1180823156" CREATED="1784646184658" MODIFIED="1784646201307"/>
-<node TEXT="Here is Joe Legner&apos;s mind." POSITION="bottom_or_right" ID="ID_1291883264" CREATED="1784646201465" MODIFIED="1784646204730"/>
-<node TEXT="How do I get the most of the ideas of Mason Currey into the mind of Joe Legner by means of the book Daily Rituals?" POSITION="bottom_or_right" ID="ID_124744464" CREATED="1784646204899" MODIFIED="1784646236540"/>
-<node TEXT="The way to gain understanding is to read well." POSITION="bottom_or_right" ID="ID_464699996" CREATED="1784646242840" MODIFIED="1784646251722"/>
-<node TEXT="One way to read well is to read in accordance with the rules in the book How to Read a Book." POSITION="bottom_or_right" ID="ID_1704073468" CREATED="1784646251929" MODIFIED="1784646266090"/>
-<node TEXT="We will use Daily Rituals as a case study." POSITION="bottom_or_right" ID="ID_1329696060" CREATED="1784646266508" MODIFIED="1784646273483"/>
-<node TEXT="We can study the title of Daily Rituals." POSITION="bottom_or_right" ID="ID_63060872" CREATED="1784646297070" MODIFIED="1784646303237">
-<node TEXT="What kind of book is this?" ID="ID_1502011422" CREATED="1784646386733" MODIFIED="1784646390190"/>
-<node TEXT="It is probably practical." ID="ID_1138896791" CREATED="1784646321918" MODIFIED="1784646326206">
-<node TEXT="The word &quot;work&quot; implies they are doing something." ID="ID_820766114" CREATED="1784646304847" MODIFIED="1784646321761"/>
-</node>
-<node TEXT="It is about art." ID="ID_746594061" CREATED="1784646327927" MODIFIED="1784646330988"/>
-<node TEXT="It is about daily rituals." ID="ID_505530638" CREATED="1784646331320" MODIFIED="1784646334857"/>
-<node TEXT="Rituals are like habits but with something more." ID="ID_1175686179" CREATED="1784646335018" MODIFIED="1784646345627"/>
-<node TEXT="Unlocking the school is a habit." ID="ID_597298195" CREATED="1784646365618" MODIFIED="1784646371324"/>
-<node TEXT="Holding a graduation ceremony is a ritual." ID="ID_359543963" CREATED="1784646355266" MODIFIED="1784646382147"/>
-</node>
-<node TEXT="There are four questions that you ask any book." POSITION="bottom_or_right" ID="ID_1187275116" CREATED="1784646396380" MODIFIED="1784646409829"/>
-<node TEXT="Mortimer J Adler tells us how to attack a book: ask it questions." POSITION="bottom_or_right" ID="ID_1256987202" CREATED="1784646410023" MODIFIED="1784646421328"/>
-<node TEXT="What does the title tell me about this book?" POSITION="bottom_or_right" ID="ID_1948050768" CREATED="1784646427334" MODIFIED="1784646434997"/>
-<node TEXT="What does the table of contents tell me about this book?" FOLDED="true" POSITION="bottom_or_right" ID="ID_94429384" CREATED="1784646435594" MODIFIED="1784646442580">
-<node TEXT="There is an introduction and a list of many famous people." ID="ID_804805204" CREATED="1784646476821" MODIFIED="1784646488890">
-<node TEXT="Francis Bacon." ID="ID_1532749001" CREATED="1784646493861" MODIFIED="1784646496671"/>
-<node TEXT="Wolfgang Amadeus Mozart." ID="ID_548459838" CREATED="1784646497063" MODIFIED="1784646525421"/>
-<node TEXT="Voltaire." ID="ID_1893576571" CREATED="1784646504906" MODIFIED="1784646523060"/>
-<node TEXT="Ben Franklin." ID="ID_673859348" CREATED="1784646506580" MODIFIED="1784646520532"/>
-<node TEXT="Jane Austen." ID="ID_301834922" CREATED="1784646508308" MODIFIED="1784646519097"/>
-<node TEXT="Gertrude Stein." ID="ID_1329204880" CREATED="1784646511855" MODIFIED="1784646516185"/>
-<node TEXT="James Joyce." ID="ID_1448476121" CREATED="1784646533114" MODIFIED="1784646535754"/>
-<node TEXT="Agatha Christie." ID="ID_588386497" CREATED="1784646535945" MODIFIED="1784646540960"/>
-<node TEXT="And many names I don&apos;t recognize yet like." ID="ID_1934998838" CREATED="1784646541156" MODIFIED="1784646552074">
-<node TEXT="Louise Bourgois." ID="ID_1783659585" CREATED="1784646552615" MODIFIED="1784646557428"/>
-<node TEXT="Chester Himes." ID="ID_1368588667" CREATED="1784646557570" MODIFIED="1784646559798"/>
-</node>
-</node>
-<node TEXT="With many names, the book is likely to have short vignettes." ID="ID_555590816" CREATED="1784646577086" MODIFIED="1784646586540"/>
-<node TEXT="You can apply the book at the level of each vignette." ID="ID_977739481" CREATED="1784646586698" MODIFIED="1784646594180"/>
-</node>
-<node TEXT="If we dip into some text, what does it tell me?" FOLDED="true" POSITION="bottom_or_right" ID="ID_143244465" CREATED="1784646598162" MODIFIED="1784646606321">
-<node TEXT="I looked at Frank Lloyd Wright." ID="ID_200368972" CREATED="1784646606497" MODIFIED="1784646617709">
-<node TEXT="FLW is a master architect and probably the most famous American architect." ID="ID_87372423" CREATED="1784646617857" MODIFIED="1784646632128"/>
-<node TEXT="The section on FLW does look like a vignette." ID="ID_1337210212" CREATED="1784646632460" MODIFIED="1784646644227"/>
-<node TEXT="[Insert quotation]." ID="ID_285681234" CREATED="1784646644398" MODIFIED="1784646672548"/>
-<node TEXT="Already I can see connections to my own life." ID="ID_265725532" CREATED="1784646704161" MODIFIED="1784646709920"/>
-<node TEXT="Here FLW is identifying himself as a creature of habit like the others." ID="ID_1704825496" CREATED="1784646710254" MODIFIED="1784646722675"/>
-<node TEXT="And he does something that I do naturally." ID="ID_1675461009" CREATED="1784646722845" MODIFIED="1784646731447"/>
-<node TEXT="I also wake up early." ID="ID_580123741" CREATED="1784646731595" MODIFIED="1784646740751"/>
-<node TEXT="I used to say &quot;prematurely early.&quot;" ID="ID_776385996" CREATED="1784646740902" MODIFIED="1784646747022"/>
-<node TEXT="But maybe it is a super power." ID="ID_1376613294" CREATED="1784646747203" MODIFIED="1784646751512"/>
-<node TEXT="When I wake up early, I usually look at something mundane on my phone and then put it away and roll over and try to sleep again." ID="ID_979271992" CREATED="1784646751695" MODIFIED="1784646775312"/>
-<node TEXT="Then I sleep until 8:30 or 9:00." ID="ID_946699535" CREATED="1784646775485" MODIFIED="1784646782868"/>
-<node TEXT="What if I experimented with getting up immediately and sitting down to work, no questions asked?" ID="ID_22897296" CREATED="1784646783269" MODIFIED="1784646802173"/>
-<node TEXT="Without having read the entire book, I do not want to judge this yet." ID="ID_1468601592" CREATED="1784646803618" MODIFIED="1784646822039"/>
-<node TEXT="But I am at least excited about the book now." ID="ID_1485030310" CREATED="1784646822187" MODIFIED="1784646830571"/>
-</node>
-<node TEXT="I also looked at Ayn Rand." ID="ID_1004671531" CREATED="1784646933019" MODIFIED="1784646937569">
-<node TEXT="Ayn Rand was a philospher and a novelist." ID="ID_43026604" CREATED="1784646937859" MODIFIED="1784646947524"/>
-<node TEXT="I am not convinced she was a great philosopher, but I am convinced she was a great novelist." ID="ID_77124711" CREATED="1784646947677" MODIFIED="1784646963030"/>
-<node TEXT="I read two of her books: The Fountainhead and Atlas Shrugged." ID="ID_1179179140" CREATED="1784646963192" MODIFIED="1784646988874"/>
-<node TEXT="So I would be interested in her habits." ID="ID_1024866840" CREATED="1784646991736" MODIFIED="1784647005531"/>
-<node TEXT="Ayn 1905-1982" ID="ID_806338751" CREATED="1784647005688" MODIFIED="1784647009919"/>
-<node TEXT="[Insert quotation]" ID="ID_1821732206" CREATED="1784647010100" MODIFIED="1784647017639"/>
-<node TEXT="The word &quot;benzedrine&quot; is not familiar to me." ID="ID_778245356" CREATED="1784647068394" MODIFIED="1784647099850"/>
-<node TEXT="So I have my first question of the author, &quot;What is Benzedrine?&quot;" ID="ID_189288945" CREATED="1784647100037" MODIFIED="1784647114264"/>
-<node TEXT="The best way to answer this is to start with the context clues." ID="ID_1715070207" CREATED="1784647114470" MODIFIED="1784647123654"/>
-<node TEXT="Adler teaches us to start with context clues." ID="ID_594180095" CREATED="1784647123878" MODIFIED="1784647135053">
-<node TEXT="What are the context clues here?" ID="ID_313976531" CREATED="1784647135228" MODIFIED="1784647142065">
-<node TEXT="It gives energy, so it is probably a simulant." ID="ID_987675873" CREATED="1784647169757" MODIFIED="1784647179338"/>
-<node TEXT="It sounds familiar." ID="ID_1961942831" CREATED="1784647179491" MODIFIED="1784647188476"/>
-<node TEXT="I wonder if it is realted to methamphetamines." ID="ID_1713514047" CREATED="1784647188642" MODIFIED="1784647197699"/>
-</node>
-</node>
-<node TEXT="Here I did look up the word Benzedrine." ID="ID_1588294313" CREATED="1784647219336" MODIFIED="1784647236917">
-<node TEXT="&quot;Benzedrine was a brand name for racemic amphetamine sulfate, a powerful central nervous system stimulant first introduced in the 1930s as an over-the-counter nasal decongestant.&quot;" ID="ID_1057985325" CREATED="1784647018391" MODIFIED="1784647249769"/>
-</node>
-<node TEXT="The context clues were right." ID="ID_913190652" CREATED="1784647250946" MODIFIED="1784647261026">
-<node TEXT="Granted, they were vague, but they were not untrue." ID="ID_1691719552" CREATED="1784647261163" MODIFIED="1784647273923"/>
-</node>
-<node TEXT="So Ayn Rand&apos;s habit of taking amphetamines is probably not to me." ID="ID_1086617778" CREATED="1784647298195" MODIFIED="1784647308880"/>
-<node TEXT="But I am still satisfied that the episode 4 plan is a good one." ID="ID_1628578368" CREATED="1784647309038" MODIFIED="1784647325067"/>
-</node>
-</node>
-<node TEXT="What is the process I followed to make episode 4?" POSITION="bottom_or_right" ID="ID_1070447526" CREATED="1784647357767" MODIFIED="1784660135981">
-<node TEXT="I decided to do the first entry in the book and proceed from there." ID="ID_1423207600" CREATED="1784647398681" MODIFIED="1784660163448"/>
-<node TEXT="The first entry is W. H. Auden." ID="ID_925011341" CREATED="1784647407267" MODIFIED="1784647440630"/>
-<node TEXT="I used a very structured process to read the Auden entry." ID="ID_1627022909" CREATED="1784647545279" MODIFIED="1784660105961">
-<node TEXT="I prepared by skimming the Wikipedia entry for the person." ID="ID_186613718" CREATED="1784659842711" MODIFIED="1784659935106">
-<node TEXT="W. H. Auden was a poet." ID="ID_756784937" CREATED="1784647472493" MODIFIED="1784647481627"/>
-<node TEXT="What did he write?" ID="ID_1151966591" CREATED="1784647481802" MODIFIED="1784647484630"/>
-<node TEXT="[Insert perfect rhyme example]" ID="ID_1665424433" CREATED="1784647500904" MODIFIED="1784647508658"/>
-<node TEXT="Having read this, I was definitely interested in hearing about his process." ID="ID_800861235" CREATED="1784660214180" MODIFIED="1784660225527">
-<node TEXT="I noted that he wrote perfect rhyme, which is an interest of mine." ID="ID_1156125528" CREATED="1784647508873" MODIFIED="1784660201578"/>
-</node>
-</node>
-<node TEXT="Then I followed the three step procedure." ID="ID_1613924454" CREATED="1784659627014" MODIFIED="1784660009136">
-<node TEXT="First, I will read each entry without stopping." ID="ID_1647697399" CREATED="1784647367005" MODIFIED="1784659716331"/>
-<node TEXT="Second, I will re-read and ask questions." ID="ID_1876321792" CREATED="1784647381404" MODIFIED="1784659723599"/>
-<node TEXT="Third, I will re-read again and (try to) answer the questions." ID="ID_883678209" CREATED="1784659724868" MODIFIED="1784659748316"/>
-</node>
-</node>
-</node>
-<node TEXT="What theoretical insights did I have?" POSITION="bottom_or_right" ID="ID_1189995035" CREATED="1784660253054" MODIFIED="1784660258546">
-<node TEXT="Reading, writing, re-reading, and re-writing is a great strategy for clear thinking which leads to greater understanding." ID="ID_1914496697" CREATED="1784659792846" MODIFIED="1784660332254">
-<node TEXT="Thinking involves being active" ID="ID_1965853109" CREATED="1784659774261" MODIFIED="1784659779999"/>
-<node TEXT="Thinking involves asking questions." ID="ID_1335067110" CREATED="1784659780144" MODIFIED="1784659784336"/>
-<node TEXT="Thinking involves answer inquestions." ID="ID_1091700682" CREATED="1784659784489" MODIFIED="1784659790121"/>
-<node TEXT="Writing is active." ID="ID_1810297094" CREATED="1784659790304" MODIFIED="1784659792669"/>
-<node TEXT="Put these all together, and writing questions and answers while reading and re-reading is the best strategy to try for my experiment." ID="ID_879046299" CREATED="1784659792846" MODIFIED="1784660350276"/>
-</node>
-<node TEXT="W. H. Austen, at least in his artist role, was definitely a creature of habit." ID="ID_1417409923" CREATED="1784660442636" MODIFIED="1784660476439"/>
-<node TEXT="There is at least one demerit of the triple-reading methodology." ID="ID_835622984" CREATED="1784660061291" MODIFIED="1784660097203">
-<node TEXT="It is time-consuming." ID="ID_839120213" CREATED="1784660079892" MODIFIED="1784660083593"/>
-</node>
-</node>
-<node TEXT="What practical lessons did I learn in the process?" POSITION="bottom_or_right" ID="ID_705853654" CREATED="1784660358382" MODIFIED="1784660365696">
-<node TEXT="I have to do my own thinking." ID="ID_150715806" CREATED="1784660371693" MODIFIED="1784660376060">
-<node TEXT="I cannot outsource it." ID="ID_1965220498" CREATED="1784660376446" MODIFIED="1784660380379"/>
-<node TEXT="The entire point is to think." ID="ID_1440700317" CREATED="1784660380778" MODIFIED="1784660384763"/>
-<node TEXT="Without thinking, I am not contributing what I might." ID="ID_233848478" CREATED="1784660385195" MODIFIED="1784660394735"/>
-<node TEXT="The true strength of a man is his mind." ID="ID_1703433658" CREATED="1784660394944" MODIFIED="1784660405843"/>
-<node TEXT="The true wisdom of a man is his heart." ID="ID_389751422" CREATED="1784660413437" MODIFIED="1784660419546"/>
-</node>
-</node>
-<node TEXT="What is the episode 4 logline?" POSITION="bottom_or_right" ID="ID_470159042" CREATED="1784647715392" MODIFIED="1784647720387">
-<node TEXT="Joe applies the lessons of the book How to Read a Book to read a new book called The Daily Ritual: The Habits... by XYZ." ID="ID_159194303" CREATED="1784647720885" MODIFIED="1784647760047"/>
-</node>
-<node TEXT="Where do I go from here?" POSITION="bottom_or_right" ID="ID_1587909107" CREATED="1784647769143" MODIFIED="1784647772549">
-<node TEXT="I have a concept for an episode." ID="ID_232569459" CREATED="1784647772761" MODIFIED="1784647779189"/>
-<node TEXT="I wrote the points to make in this mind map." ID="ID_797286651" CREATED="1784647779350" MODIFIED="1784647786676"/>
-<node TEXT="I will sort them next into the structure on the left." ID="ID_1982668401" CREATED="1784647786853" MODIFIED="1784647793946"/>
-<node TEXT="Then I will read it and rewrite it." ID="ID_94363800" CREATED="1784647794990" MODIFIED="1784647801667"/>
-<node TEXT="I will read it out loud to judge if it sounds good spoken." ID="ID_1820660994" CREATED="1784647837569" MODIFIED="1784647853014"/>
-<node TEXT="And finally, record, mix, master, and publish." ID="ID_1711451335" CREATED="1784647801832" MODIFIED="1784647810018"/>
-<node TEXT="If this method works, we will do it again" ID="ID_1691180594" CREATED="1784647860537" MODIFIED="1784647867417">
-<node TEXT="Start with template structure." ID="ID_315583056" CREATED="1784647883459" MODIFIED="1784647889449"/>
-<node TEXT="Write audio essay." ID="ID_618091079" CREATED="1784647868439" MODIFIED="1784647871888"/>
-<node TEXT="Write points." ID="ID_662675706" CREATED="1784647872042" MODIFIED="1784647873785"/>
-<node TEXT="Sort points into template structure." ID="ID_413767405" CREATED="1784647873948" MODIFIED="1784647893629">
-<node TEXT="I want to use my mind, not ChatGPT." ID="ID_55174176" CREATED="1784647923013" MODIFIED="1784647935890"/>
-<node TEXT="If I do it myself, my skills will grow." ID="ID_1506250751" CREATED="1784647936043" MODIFIED="1784647945795"/>
-<node TEXT="If my skills grow sufficiently, I will be a master." ID="ID_516875673" CREATED="1784647945948" MODIFIED="1784647955021"/>
-</node>
-<node TEXT="Write the Fountain dialog." ID="ID_1632534536" CREATED="1784647894008" MODIFIED="1784647901034"/>
-<node TEXT="Produce the audio file." ID="ID_1080490775" CREATED="1784647901204" MODIFIED="1784647910214"/>
-<node TEXT="Publish the podcast." ID="ID_1006480125" CREATED="1784647910778" MODIFIED="1784647914861"/>
-</node>
-</node>
-<node TEXT="Wanting to be an artist: a podcast producer." POSITION="bottom_or_right" ID="ID_1338871429" CREATED="1784645010338" MODIFIED="1784645016593"/>
-<node TEXT="I have been reading about artistry and artists." POSITION="bottom_or_right" ID="ID_1963527296" CREATED="1784645030844" MODIFIED="1784645037810"/>
-<node TEXT="Artwork is the work of skill." POSITION="bottom_or_right" ID="ID_1655239693" CREATED="1784645038017" MODIFIED="1784645047933"/>
-<node TEXT="Art can be talked about like it&apos;s the Mona Lisa." POSITION="bottom_or_right" ID="ID_1073069176" CREATED="1784645048102" MODIFIED="1784645061279"/>
-<node TEXT="Art can also be the &quot;art of painting&quot;." POSITION="bottom_or_right" ID="ID_276929261" CREATED="1784645061416" MODIFIED="1784645071951"/>
-<node TEXT="The Mona Lisa is then a production of the superior painting skill of Leonardo Di Vinci." POSITION="bottom_or_right" ID="ID_1429867606" CREATED="1784645072474" MODIFIED="1784645112312"/>
-<node TEXT="That is at least one way to look at art." POSITION="bottom_or_right" ID="ID_489007273" CREATED="1784645112482" MODIFIED="1784645121707"/>
-<node TEXT="And that is how I mean it when I talk about it today." POSITION="bottom_or_right" ID="ID_96082123" CREATED="1784645121852" MODIFIED="1784645128223"/>
-<node TEXT="It is important to specify you language when you use it." POSITION="bottom_or_right" ID="ID_1497317625" CREATED="1784645128405" MODIFIED="1784645136924"/>
-<node TEXT="So I specify when I say &quot;art&quot; I mean either &quot;a set of related skills toward a particular end&quot; or I mean &quot;the end produced by the operation of such set of skills by a master.&quot;" POSITION="bottom_or_right" ID="ID_1863799338" CREATED="1784645138306" MODIFIED="1784645196407"/>
-<node TEXT="To develop an art, we need to (1) know the rules and (2) operate according to the structure of the rules until those structured operations become mindless habits." POSITION="bottom_or_right" ID="ID_648315224" CREATED="1784645224705" MODIFIED="1784645272903"/>
-<node TEXT="There is an idea called the &quot;outside game&quot; and the &quot;inside game&quot;." POSITION="bottom_or_right" ID="ID_822882092" CREATED="1784644827776" MODIFIED="1784644840138"/>
-<node TEXT="The outer game is to learn to use the rules of How to Read a book." POSITION="bottom_or_right" ID="ID_1793263502" CREATED="1784644840307" MODIFIED="1784644888983"/>
-<node TEXT="The inner game is for me to get better at the artistry of making podcasts." POSITION="bottom_or_right" ID="ID_284852686" CREATED="1784644847295" MODIFIED="1784644931946"/>
-<node TEXT="Consider Mark Twain." POSITION="bottom_or_right" ID="ID_1537836814" CREATED="1784645299727" MODIFIED="1784645303602"/>
-<node TEXT="It might be good to know Mark Twain&apos;s habits." POSITION="bottom_or_right" ID="ID_369918495" CREATED="1784645363338" MODIFIED="1784645372408"/>
-<node TEXT="Artists seem to be creatures of habit." POSITION="bottom_or_right" ID="ID_228582003" CREATED="1784645372602" MODIFIED="1784645975322">
-<node TEXT="Steven Pressfield suggests this in his book The War of Art." ID="ID_921478075" CREATED="1784645384512" MODIFIED="1784645397539">
-<node TEXT="He gets up and makes coffee." ID="ID_982009291" CREATED="1784645577581" MODIFIED="1784645581634"/>
-<node TEXT="He collects and wears many good luck pieces, such as a lucky sweater." ID="ID_847972508" CREATED="1784645581770" MODIFIED="1784645604051"/>
-<node TEXT="He is a bit superstitious, but not wholly unreasonably so." ID="ID_355453336" CREATED="1784645604282" MODIFIED="1784645614138"/>
-<node TEXT="He goes into the office each day about the same time." ID="ID_1788631988" CREATED="1784645568310" MODIFIED="1784645576817"/>
-<node TEXT="He plows into his work." ID="ID_840363131" CREATED="1784645619988" MODIFIED="1784645630704"/>
-<node TEXT="He works until he is tired, which he says is about 4 hours." ID="ID_8682237" CREATED="1784645630852" MODIFIED="1784645642804"/>
-<node TEXT="He then goes for a walk." ID="ID_342186936" CREATED="1784645653910" MODIFIED="1784645658905"/>
-<node TEXT="The book suggests that this is his daily ritual." ID="ID_1197042926" CREATED="1784645660784" MODIFIED="1784645668343"/>
-<node TEXT="Pressfield talks a lot about overcoming an enemy he called &quot;Resistance&quot; with a capital-R." ID="ID_1146524161" CREATED="1784645998882" MODIFIED="1784646017348"/>
-<node TEXT="He says the best weapon against resistance is, you guessed it, habit." ID="ID_914666119" CREATED="1784646019312" MODIFIED="1784646036463"/>
-<node TEXT="Steven Pressfield is a creature of habit." ID="ID_1326333385" CREATED="1784645372602" MODIFIED="1784646080757"/>
-</node>
-<node TEXT="Stephen King is also someone who was supposedly very structured." ID="ID_586177483" CREATED="1784645793351" MODIFIED="1784645949611">
-<node TEXT="He has said a lot about these habits over the years." ID="ID_766936545" CREATED="1784645860288" MODIFIED="1784645867212"/>
-<node TEXT="&quot;Amateurs sit and wait for inspiration; the rest of us just get up and go to work.&quot; Stephen King." ID="ID_1382865680" CREATED="1784645922432" MODIFIED="1784645932244"/>
-<node TEXT="If you want more proof, you can go look for quotations." ID="ID_258224177" CREATED="1784645867376" MODIFIED="1784645876852"/>
-<node TEXT="Stephen King is a creature of habit." ID="ID_265044836" CREATED="1784646084450" MODIFIED="1784646091872"/>
-<node TEXT="Artists seem to be creatures of habit." ID="ID_1669887019" CREATED="1784645372602" MODIFIED="1784645975322"/>
-<node TEXT="According to my evidence, having the name &quot;Steven&quot;, no matter which way it is spelled, is a sure way to be a creature of habit." ID="ID_1506044327" CREATED="1784646092748" MODIFIED="1784646117630"/>
-</node>
-<node TEXT="The book the Seven Habits of Highly Successful People is another that stresses the importance of habits for &quot;successful people&quot;." ID="ID_230432549" CREATED="1784645737245" MODIFIED="1784645771486"/>
-</node>
-<node TEXT="One problem a budding artist must solve is how to develop the habits that will make them masters." POSITION="bottom_or_right" ID="ID_1632957809" CREATED="1784645684376" MODIFIED="1784645707762">
-<node TEXT="One way to approach that problem is to look at the habits of many artists and abstract the principles from them." ID="ID_78895982" CREATED="1784645708310" MODIFIED="1784645723204"/>
-<node TEXT="The first principle seems to be: be a creature of habit." ID="ID_1715723634" CREATED="1784645723354" MODIFIED="1784645732027"/>
-<node TEXT="First, be a creature of habit." ID="ID_916307969" CREATED="1784645733421" MODIFIED="1784645737055"/>
-</node>
-<node TEXT="One must imagine there are many" POSITION="bottom_or_right" ID="ID_1661907711" CREATED="1784645670953" MODIFIED="1784645683657"/>
-<node TEXT="Having dipped into the book Daily Rituals, I can see that this is the theme of the entire book." POSITION="bottom_or_right" ID="ID_1182275298" CREATED="1784645404048" MODIFIED="1784645432901"/>
-<node TEXT="The theme of the book Daily Rituals: How Artists Do The Thing is that mastery of an art relies on mastery of one&apos;s self which means consciously developing habits." POSITION="bottom_or_right" ID="ID_919220689" CREATED="1784645433054" MODIFIED="1784645499818"/>
-<node TEXT="One natural unit of human cycle is the day-night cycle." POSITION="bottom_or_right" ID="ID_621589557" CREATED="1784645500146" MODIFIED="1784645526204"/>
-<node TEXT="The book Daily Rituals assumes we will at the level of the day-night cycle." POSITION="bottom_or_right" ID="ID_1688460281" CREATED="1784645526948" MODIFIED="1784645549754"/>
-<node TEXT="He was a brilliant writer." POSITION="bottom_or_right" ID="ID_1909090523" CREATED="1784645303785" MODIFIED="1784645308590"/>
-<node TEXT="We can see that he did the thing." POSITION="bottom_or_right" ID="ID_1609346267" CREATED="1784645308745" MODIFIED="1784645323301"/>
-<node TEXT="An artist is someone who does the thing." POSITION="bottom_or_right" ID="ID_1790339059" CREATED="1784645323531" MODIFIED="1784645329581"/>
-<node TEXT="A master is an artist who has mastered the skills to do the thing in one or more superior ways." POSITION="bottom_or_right" ID="ID_1177852404" CREATED="1784645329766" MODIFIED="1784645348702"/>
-<node TEXT="DO" POSITION="top_or_left" ID="ID_123191916" CREATED="1784643841670" MODIFIED="1784643842326">
-<node TEXT="Theoretical Segment" ID="ID_1036539476" CREATED="1784643843042" MODIFIED="1784643849296">
-<node TEXT="What is thinking?" ID="ID_1381732568" CREATED="1784646443065" MODIFIED="1784646446441">
-<node TEXT="Asking and answering questions." ID="ID_1617743681" CREATED="1784646446606" MODIFIED="1784646450715">
-<node TEXT="Answering creates new questions." ID="ID_1778200594" CREATED="1784647488188" MODIFIED="1784647495630"/>
-</node>
-</node>
-<node TEXT="### Set up theoretical segment" ID="ID_521937453" CREATED="1784736406969" MODIFIED="1784736417094">
-<node TEXT="What will we talk about in the theoretical segment?" ID="ID_450096922" CREATED="1784736623277" MODIFIED="1784736634749"/>
-</node>
-<node TEXT="### Explain How to Read a book" ID="ID_1194274037" CREATED="1784736417414" MODIFIED="1784736427266"/>
-<node TEXT="### Clean up theoretical segment" ID="ID_1450970442" CREATED="1784736427623" MODIFIED="1784736433295"/>
-</node>
-<node TEXT="Practical Segment" ID="ID_1125184543" CREATED="1784643849501" MODIFIED="1784643855088">
-<node TEXT="### Say what we are going to do." ID="ID_730734242" CREATED="1784736406969" MODIFIED="1784736453260">
-<node TEXT="What will I do in today&apos;s practical segment?" ID="ID_1263848373" CREATED="1784736581584" MODIFIED="1784736618027"/>
-</node>
-<node TEXT="### Listen and talk about it." ID="ID_608921016" CREATED="1784736417414" MODIFIED="1784736462997"/>
-<node TEXT="### Talk about any system lessons." ID="ID_617598662" CREATED="1784736427623" MODIFIED="1784736529423"/>
-</node>
-<node TEXT="Musical Segment" ID="ID_1236302402" CREATED="1784643855260" MODIFIED="1784643858152">
-<node TEXT="### Say what we are trying to do." ID="ID_159259301" CREATED="1784736406969" MODIFIED="1784736490121">
-<node TEXT="What are we going to do in the musical segment?" ID="ID_577296001" CREATED="1784736581584" MODIFIED="1784736587942"/>
-</node>
-<node TEXT="### Listen and discuss us doing it." ID="ID_1220358435" CREATED="1784736417414" MODIFIED="1784736497386"/>
-<node TEXT="### Talk about lessons from doing it." ID="ID_205260016" CREATED="1784736427623" MODIFIED="1784736570263">
-<node TEXT="What lessons did I learn while doing this?" ID="ID_705845827" CREATED="1784736571771" MODIFIED="1784736579558"/>
-</node>
-</node>
-</node>
-<node TEXT="CLEANUP" POSITION="top_or_left" ID="ID_532634630" CREATED="1784643859031" MODIFIED="1784643861186">
-<node TEXT="Housekeeping" ID="ID_147655970" CREATED="1784643862869" MODIFIED="1784643865331"/>
 </node>
 </node>
 </map>
